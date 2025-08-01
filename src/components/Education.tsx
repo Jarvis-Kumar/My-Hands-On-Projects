@@ -75,7 +75,7 @@ const Education: React.FC<EducationProps> = ({ darkMode }) => {
                   {index === 0 && (
                     <div className="mt-6">
                       <p className={`text-lg leading-relaxed ${darkMode ? 'text-gray-300' : 'text-gray-700'}`}>
-                        Currently pursuing my Bachelor's degree in Economics while actively developing technical skills 
+                        Completed my Bachelor's degree in Economics and actively developing technical skills 
                         in web development and artificial intelligence. This interdisciplinary approach combines economic 
                         principles with technology to create innovative solutions for real-world problems.
                       </p>
